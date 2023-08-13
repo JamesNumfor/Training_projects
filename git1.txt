@@ -1,0 +1,6 @@
+#!/bin/bash
+
+list of fruits
+avocado
+orange
+kiwi
