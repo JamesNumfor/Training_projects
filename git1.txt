@@ -4,3 +4,5 @@ list of fruits
 avocado
 orange
 kiwi
+pear
+lemom
